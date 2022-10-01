@@ -1,2 +1,3 @@
-# python-sandbox
-Python crash course bt traversy media
+# Python sandbox
+
+Python crash course by traversy media
